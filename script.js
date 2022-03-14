@@ -4,7 +4,7 @@ const list = document.querySelector("#list");
 var el = document.getElementsByTagName('li');
 
 
-// Add lists when clicked
+//Add lists when clicked
 btn.onclick = function(){
     
     var txt = input.value;
